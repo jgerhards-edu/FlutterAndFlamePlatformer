@@ -40,3 +40,4 @@
 - Created a simple ground tile sprite
 - Created a simple level with the ground tile sprite
 - Level displays on the screen
+- Added git support with github
