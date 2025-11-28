@@ -1,0 +1,37 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level-01",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "level-01": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 750.5,
+                "y": 512.5
+            }
+        },
+        "platformer.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/home/jg/GameDev/FlutterAndFlame/LearningProject/platformer/assets/images",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 40,
+    "openFiles": [
+        "platformer.tsx",
+        "level-01"
+    ],
+    "project": "platformer.tiled-project",
+    "recentFiles": [
+        "platformer.tsx",
+        "level-01"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
