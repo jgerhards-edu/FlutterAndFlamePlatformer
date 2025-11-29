@@ -62,6 +62,8 @@ flutter:
   assets:
     - assets/tiles/
     - assets/images/
+    - assets/images/Player/
+    - assets/images/Environment/
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 

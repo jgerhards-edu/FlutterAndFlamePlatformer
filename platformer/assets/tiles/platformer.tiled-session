@@ -6,6 +6,7 @@
     "activeFile": "level-01",
     "expandedProjectPaths": [
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "level-01": {
             "scale": 1,
@@ -15,12 +16,20 @@
                 "y": 512.5
             }
         },
+        "level-01.tmx": {
+            "scale": 0.7176953125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640.2438360637892,
+                "y": 563.609644587166
+            }
+        },
         "platformer.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         }
     },
-    "last.imagePath": "/home/jg/GameDev/FlutterAndFlame/LearningProject/platformer/assets/images",
+    "last.imagePath": "/home/jg/GameDev/FlutterAndFlame/LearningProject/platformer/assets/images/Environment",
     "map.height": 23,
     "map.lastUsedFormat": "tmx",
     "map.width": 40,
@@ -31,6 +40,7 @@
     "project": "platformer.tiled-project",
     "recentFiles": [
         "platformer.tsx",
+        "level-01.tmx",
         "level-01"
     ],
     "tileset.lastUsedFormat": "tsx"
